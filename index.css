@@ -1,0 +1,20 @@
+#game {
+    background: black;
+    display: block;
+    margin: 0 auto;
+    margin-top: -120px;
+}
+
+#resetHighScore {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+    margin-right: 10px; 
+}
+
+#highScoreContainer {
+    color: black;
+    height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+   
+}
